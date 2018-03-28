@@ -1,0 +1,7 @@
+C:\Users\Michael\Documents\ErrorEmailAlerts\ErrorEmailAlerts\obj\Debug\ErrorEmailAlerts.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\ErrorEmailAlerts\ErrorEmailAlerts\obj\Debug\ErrorEmailAlerts.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\ErrorEmailAlerts\ErrorEmailAlerts\bin\Debug\ErrorEmailAlerts.exe.config
+C:\Users\Michael\Documents\ErrorEmailAlerts\ErrorEmailAlerts\bin\Debug\ErrorEmailAlerts.exe
+C:\Users\Michael\Documents\ErrorEmailAlerts\ErrorEmailAlerts\bin\Debug\ErrorEmailAlerts.pdb
+C:\Users\Michael\Documents\ErrorEmailAlerts\ErrorEmailAlerts\obj\Debug\ErrorEmailAlerts.exe
+C:\Users\Michael\Documents\ErrorEmailAlerts\ErrorEmailAlerts\obj\Debug\ErrorEmailAlerts.pdb
